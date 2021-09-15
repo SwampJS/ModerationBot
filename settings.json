@@ -1,0 +1,48 @@
+{
+  "sahip": "840632050741936141",
+  "prefix": "*",
+  "voiceChannel": "886186364314480701",
+  "token": "ODQ2Njk0MjEzMTA5Mjg0ODk1.YKzPbw.wvAaBoSPJzlD0TTSLGW_ED4jrsM",
+  "guildID": "854102308513644544",
+  
+  "no": "<:supheli:816413589165441046>",
+  "yes": "<:guvenli:816413373926473768>",
+  
+  "botCommands": "829731484491186267",
+  "transport": "829731484491186267",
+
+"banHammer": "886186181203742740",
+"jailHammer": "886186181971296306",
+"muteHammer": "886186182692732938",
+"vmuteHammer": "886186183594504222",
+  
+  
+  "jailRol": "886186199394426890",
+  "muteRol": "886186253496778792",
+  "vmuteRol": "816411032095686677", 
+  
+  
+  "banLog": "887783732336029726",
+  "jailLog": "887783746189807736",
+  "muteLog": "887783766871904297",
+  "vmuteLog": "",
+  
+  "tagRol": "887782307371577354",
+  "tagLog": "886186487849304094",
+  "tag": "✭",
+  "unTag": "✭",
+  
+  "enAltYetkiliRol": "",
+  "kayıtsız": "886298964062793728",
+
+  "pubID": "", 
+  "privID": "",
+  "teyitID": "",
+  "aloneID": "",
+
+  "genelChat": "886186356655657000",
+  "sesLogKanali": "887783961198231572",
+
+  "banLimit" : 5 
+  
+}
